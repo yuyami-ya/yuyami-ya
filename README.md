@@ -66,5 +66,3 @@ class FullStackEngineer:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yuyami-ya&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
-
-**"Learning never exhausts the mind" - 技術を通じて価値を創造し続けます 🚀** 
